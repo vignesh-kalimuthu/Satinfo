@@ -1,0 +1,9 @@
+
+  
+
+  /* Make active dot fully green */
+.slick-dots li.slick-active .custom-dot {
+    background-color: #22c55e; /* Tailwind's green-500 */
+    border-color: #22c55e;
+  }
+  
