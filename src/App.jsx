@@ -9,7 +9,7 @@ import Banner from './components/Banner'
 import Cards from './components/Cards'
 import About from './components/About'
 import ProjectCounts from './components/ProjectCounts'
-import Services from './components/services'
+import Services from './components/Services'
 import TestimonialCarousel from './components/TestimonialCarousel';
 import Team from './components/Team';
 import CallToAction from './components/CallToAction';
