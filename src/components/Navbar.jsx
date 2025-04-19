@@ -21,7 +21,7 @@ const Navbar = () => {
     <>
       <nav className={`fixed top-0 left-0 w-full z-20 transition-shadow duration-500 ${scroll ? "bg-white shadow-lg" : "bg-transparent"}`}>
         <div className="flex justify-between items-center px-4 py-6 max-w-7xl lg:mx-[5em]">
-          <div style={{color:"#10BC69"}} className="text-green-800 font-bold  text-2xl">Satinfo</div>
+          <div style={{color:"#10BC69"}} className="text-green-800 font-bold  text-2xl">Satinfo Name</div>
 
           {/* Desktop menu */}
           <div className="hidden lg:flex items-center space-x-9">
