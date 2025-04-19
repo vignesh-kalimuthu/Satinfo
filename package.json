@@ -1,9 +1,9 @@
 {
   "name": "satinfo-portfolio-template",
-  "private": true,
+  "homepage": "https://vignesh-kalimuthu.github.io/Satinfo",
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://vignesh-kalimuthu.github.io/Satinfo",
+  
   "scripts": {
     "dev": "vite",
     "build": "vite build",
