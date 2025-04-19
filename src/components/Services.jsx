@@ -1,7 +1,7 @@
 import React from 'react'
 import { FaHeartbeat, FaBroadcastTower, FaChalkboardTeacher } from 'react-icons/fa';
 
-const services = [
+const servicesCategory = [
     {
       icon: <FaHeartbeat className="text-green-500 text-4xl mx-auto mb-4" />,
       title: 'Nesciunt Mete',
@@ -51,7 +51,7 @@ const Services = () => {
     </p>
 </div>
 <div className="grid grid-cols-1 md:grid-cols-3  lg:mx-[5em]  gap-6 ">
-      {services.map((service, index) => (
+      {servicesCategory.map((service, index) => (
         <div
           key={index}
           className=" border bg-white border-gray-200 rounded-lg p-6 text-center transition-all duration-300 hover:border-green-500 shadow-sm hover:shadow-md"
